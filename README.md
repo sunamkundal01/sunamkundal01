@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunamkundal01
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning AI/ML
 
 
 <!---
