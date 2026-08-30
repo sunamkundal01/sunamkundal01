@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./light.svg" alt="Sunam Kundal — AI/ML, Edge AI and LLM Engineering">
+</picture>
 <h3 align="center">👋 Hi there, I'm SUNAM KUNDAL</h3>
 
 <p align="center">
@@ -6,6 +11,7 @@
   <a href="https://linkedin.com/in/sunamkundal">LinkedIn</a> •
   <a href="https://github.com/sunamkundal01">GitHub</a>
 </p>
+
 
 ---
 
