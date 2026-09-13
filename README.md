@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./light.gif">
-  <img src="./light.gif" alt="Sunam Kundal">
-</picture>
+
 <h3 align="center">👋 Hi there, I'm SUNAM KUNDAL</h3>
 
 <p align="center">
