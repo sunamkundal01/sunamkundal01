@@ -11,11 +11,11 @@
 
 ---
 
-I'm Sunam, an AI/ML Intern at SiMa.ai, where I specialize in deploying on-device LLM models and crafting automation frameworks that elevate GenAI feature validation. With a robust background in NLP and deep learning, I've enhanced model accuracy and engineered cutting-edge machine learning pipelines.
+I'm Sunam, an AI Trainee at kukufm, where I specialize in deploying AI apps development(web and android )on-device LLM models and crafting automation frameworks that elevate GenAI feature validation. With a robust background in NLP and deep learning, I've enhanced model accuracy and engineered cutting-edge machine learning pipelines.
 
 ---
 
-- 🔭 Currently working as **AI/ML Intern** at **SiMa.ai**
+- 🔭 Currently working as **AI Trainee** at **Kukufm**
 - 🌱 Learning: **I'm diving deeper into advanced machine learning techniques and cloud-based AI solutions to broaden my expertise.**
 - 💬 Ask me about: **On-device LLM deployment, NLP model optimization, Full-stack development**
 - 📍 Based in: **Bengaluru, Karnataka**
